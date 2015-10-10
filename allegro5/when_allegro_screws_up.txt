@@ -1,0 +1,8 @@
+sudo service lightdm start
+cat /etc/X11/default-display-manager
+/uss/sbin/lightdm (or /usr/bin/lightdm/)
+
+sudo lightdm, startx, sudo startx, sudo gdm
+
+sudo apt-get install build-essential
+sudo apt-get install ubuntu-desktop

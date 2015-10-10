@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1381589299 source:/home/stamaniorec/Desktop/TicTacToe/board_action.cpp
+	<iostream>
+
+1381588837 source:/home/stamaniorec/Desktop/TicTacToe/check_for_win.cpp
+	<iostream>
+
+1381588872 source:/home/stamaniorec/Desktop/TicTacToe/main.cpp
+	<iostream>
+	"board_action.h"
+	"check_for_win.h"
+
+1381588615 /home/stamaniorec/Desktop/TicTacToe/board_action.h
+
+1381588841 /home/stamaniorec/Desktop/TicTacToe/check_for_win.h
+
